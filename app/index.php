@@ -1,2 +1,4 @@
 <?php
-echo \Test\User::$name;
+include('../src/User');
+echo Test\User::$name;
+?>
