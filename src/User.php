@@ -2,7 +2,7 @@
 
 namespace Test;
 
-class user_Name
+class User
 {
-    static $name = 'Test McTestFace';
+    public static $name = 'Test McTestFace';
 }
