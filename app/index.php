@@ -1,4 +1,8 @@
 <?php
+
+namespace Test;
+
 include('../src/User');
-echo Test\User::$name;
-?>
+
+echo User::$name;
+echo ' hello';
